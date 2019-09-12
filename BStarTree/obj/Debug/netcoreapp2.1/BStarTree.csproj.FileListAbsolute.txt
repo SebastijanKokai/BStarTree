@@ -1,0 +1,11 @@
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\bin\Debug\netcoreapp2.1\BStarTree.deps.json
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\bin\Debug\netcoreapp2.1\BStarTree.runtimeconfig.json
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\bin\Debug\netcoreapp2.1\BStarTree.runtimeconfig.dev.json
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\bin\Debug\netcoreapp2.1\BStarTree.dll
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\bin\Debug\netcoreapp2.1\BStarTree.pdb
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.csprojAssemblyReference.cache
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.csproj.CoreCompileInputs.cache
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.AssemblyInfoInputs.cache
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.AssemblyInfo.cs
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.dll
+D:\#Fakultet\2. godina\#Letnji semestar\Algoritmi\BStarTree\Projekat\BStarTree\BStarTree\obj\Debug\netcoreapp2.1\BStarTree.pdb
